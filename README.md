@@ -4,9 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=190&section=header&text=THAN%20MINH%20HIEU&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=IT%20Engineer%20%C2%B7%20Odoo%20Developer%20%C2%B7%20AI%20Engineering&descAlignY=58&descSize=16" />
 
-# Hi, I'm THAN MINH HIEU
-
-### IT Engineer · Odoo Developer · AI Engineering
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&vCenter=true&width=850&lines=3%2B+Years+of+Odoo+Development;Building+Business+Systems+and+Workflow+Automation;Learning+AI+Engineering+through+Practical+Projects;Odoo+Developer+%E2%86%92+AI+Engineer+for+Business+Automation" alt="Typing SVG" />
 
