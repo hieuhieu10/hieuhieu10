@@ -38,7 +38,7 @@ I am an IT engineer with 3 years of experience in Odoo development.
 
 My main background is building and customizing business systems with Odoo, including modules, backend logic, workflows, data models, and system integration.
 
-I am currently developing my skills as an AI engineering fresher. My goal is to combine my Odoo development background with AI engineering to build useful automation systems for business operations.
+I am currently developing my skills as an AI engineering fresher.
 
 ---
 
