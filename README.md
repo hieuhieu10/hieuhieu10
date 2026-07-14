@@ -51,7 +51,7 @@ I am currently developing my skills as an AI engineering fresher.
     <td width="50%">
       <h3 align="center">Odoo & Business Systems</h3>
       <p>
-        I build and customize Odoo modules, business workflows, backend logic, data models, and ERP-related features.
+        I build and customize Odoo modules, business workflows, backend logic, frontend interfaces, data models, and ERP-related features.
       </p>
     </td>
     <td width="50%">
