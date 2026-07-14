@@ -40,47 +40,6 @@ My main background is building and customizing business systems with Odoo, inclu
 
 I am currently developing my skills as an AI engineering fresher.
 
----
-
-## Current Direction
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Odoo & Business Systems</h3>
-      <p>
-        I build and customize Odoo modules, business workflows, backend logic, frontend interfaces, data models, and ERP-related features.
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">AI Engineering Fresher</h3>
-      <p>
-        I am learning Python, machine learning, deep learning, model optimization, and practical AI applications.
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-```txt
-Career Path
-├── Strong Base
-│   ├── Odoo Development
-│   ├── Business System Customization
-│   ├── Backend Logic
-│   ├── Workflow Automation
-│   └── Data Models
-│
-└── Growing Direction
-    ├── Python for AI
-    ├── Machine Learning
-    ├── Deep Learning
-    ├── Model Optimization
-    └── AI for Business Automation
-```
 
 ---
 
