@@ -154,16 +154,19 @@ AI Learning Map
 
 ## Career Direction
 
-My long-term direction is to combine my Odoo development experience with AI engineering skills.
+My long-term direction is to grow as an AI engineer and build practical AI products.
+
+Although I have 3 years of experience in Odoo development, my current career focus is moving toward AI engineering, especially AI products, robotics-related applications, and intelligent systems.
 
 I am especially interested in:
 
-- AI for business systems
-- ERP workflow automation
-- AI assistants for internal operations
-- Data-driven decision support
+- AI products and intelligent applications
+- Robotics-related AI systems
+- Computer vision applications
+- AI agents and automation systems
 - Practical machine learning applications
-- Backend systems for AI products
+- Backend systems for AI-powered products
+- Real-world AI systems that can interact with users, data, and environments
 
 ---
 
