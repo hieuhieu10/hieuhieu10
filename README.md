@@ -85,37 +85,6 @@ I am currently developing my skills as an AI engineering fresher.
 
 ---
 
-## What I Can Build
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Odoo Development</h3>
-      <ul>
-        <li>Custom Odoo modules</li>
-        <li>Business workflow customization</li>
-        <li>Backend logic and models</li>
-        <li>Odoo views and OWL frontend</li>
-        <li>ERP feature customization</li>
-        <li>System integration</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Backend & Web Systems</h3>
-      <ul>
-        <li>FastAPI backend services</li>
-        <li>NodeJS applications</li>
-        <li>PostgreSQL database design</li>
-        <li>Docker-based deployment</li>
-        <li>Supabase integration</li>
-        <li>React / NextJS web interfaces</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ## AI Learning Focus
 
 I am currently building my AI engineering foundation through practical learning and small projects.
